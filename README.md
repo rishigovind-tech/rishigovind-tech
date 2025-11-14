@@ -84,10 +84,4 @@ I’m a passionate **QA Engineer** & **MERN Stack Developer**, focused on buildi
 ### ✍️ **Random Dev Quote**
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 
-[![](https://visitcount.itsvg.in/api?id=rishigovind&icon=2&color=1)](https://visitcount.itsvg.in)
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
