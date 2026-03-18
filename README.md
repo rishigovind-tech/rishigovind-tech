@@ -15,21 +15,14 @@ I’m a passionate **QA Engineer** & **MERN Stack Developer**, focused on buildi
 ### 🔍 **Quality Assurance**
 - Skilled in **manual testing**, **API testing**, and basic **automation (Selenium)**.  
 - Strong understanding of **test case design**, **bug reporting**, and **SDLC/STLC**.  
-- Interested in **building automation frameworks** and improving **test coverage**.  
-
----
-
-### 💻 **MERN Stack Development**
-- Experience building **full-stack applications** using **MongoDB, Express, React, Node.js**.  
-- Strong focus on **clean UI**, **modular code**, and **API integration**.  
-- Currently developing **real-world MERN projects** to sharpen full-stack skills.  
+- Interested in **building automation frameworks** and improving **test coverage**.
+  
 
 ---
 
 ### 🎯 **What I’m Working On**
 - Enhancing my **automation testing** skills.  
-- Building **MERN applications** with structured backend and optimized frontend.  
-- Strengthening **SQL**, **debugging**, and **problem-solving** abilities.  
+- Strengthening **Python**,**SQL**, **debugging**, and **problem-solving** abilities.  
 
 ---
 
@@ -81,7 +74,7 @@ I’m a passionate **QA Engineer** & **MERN Stack Developer**, focused on buildi
 
 ---
 
-### ✍️ **Random Dev Quote**
+### ✍️ **Quote**
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
