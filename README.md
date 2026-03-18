@@ -8,21 +8,25 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
 <br><br>
 
-I’m a passionate **QA Engineer** & **MERN Stack Developer**, focused on building reliable applications and ensuring high-quality user experiences. I enjoy combining my development skills with testing practices to create software that is both functional and dependable.
+I’m a passionate **SDET (Software Development Engineer in Test)** with hands-on experience in end-to-end testing of SaaS platforms. I specialize in building automation frameworks, validating APIs, and testing internal libraries and packages to ensure system reliability. I focus on delivering stable, scalable, and production-ready software through efficient and quality-driven testing practices.
 
 ---
 
-### 🔍 **Quality Assurance**
-- Skilled in **manual testing**, **API testing**, and basic **automation (Selenium)**.  
-- Strong understanding of **test case design**, **bug reporting**, and **SDLC/STLC**.  
-- Interested in **building automation frameworks** and improving **test coverage**.
+### 🔍 **Automation & SDET Focus**
+- Building and enhancing automation scripts using Selenium WebDriver with TestNG.
+- Performing API validation using Postman and exploring automation for API testing.
+- Testing internal libraries and packages to ensure reliability and seamless integration.
+- Working towards developing scalable automation frameworks and improving CI/CD testing practices.
+- Focused on increasing test coverage, efficiency, and faster release cycles.
   
 
 ---
 
 ### 🎯 **What I’m Working On**
-- Enhancing my **automation testing** skills.  
-- Strengthening **Python**,**SQL**, **debugging**, and **problem-solving** abilities.  
+- Enhancing my test automation skills with a focus on Selenium WebDriver and scalable frameworks.
+- Strengthening Python, SQL, debugging, and problem-solving for efficient test design and validation.
+- Expanding expertise in API testing and automation for backend reliability.
+- Gaining hands-on experience in testing internal libraries and packages to ensure system stability.  
 
 ---
 
