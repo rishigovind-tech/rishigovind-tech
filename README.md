@@ -72,9 +72,9 @@ I’m a passionate **SDET (Software Development Engineer in Test)** with hands-o
 
 ## 📊 **GitHub Stats**
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rishigovind-tech&show_icons=true&theme=dark&hide_border=true)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rishigovind-tech&show_icons=true&theme=dark&hide_border=true) </br>
 
-![](https://streak-stats.demolab.com?user=rishigovind-tech&theme=dark&hide_border=true)
+![](https://streak-stats.demolab.com?user=rishigovind-tech&theme=dark&hide_border=true)  </br>
 
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rishigovind-tech&layout=compact&theme=dark&hide_border=true)
 
